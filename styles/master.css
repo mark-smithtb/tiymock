@@ -1,7 +1,9 @@
+
 body {
-  background: url(http://theironyard.com/images/locations/houston/houston.jpg) no-repeat top center;
+  background: url(file:///Users/thad/tiy/tiymock/images/houston.jpg) no-repeat top center;
   background-size: 100% 375px;
   font-family: 'PT serif',serif;
+
 }
 .avitar img {
   position: relative;
@@ -65,3 +67,6 @@ aside h2 {
   display: inline-block;
   width: 50%;
 }
+=======
+
+>>>>>>> fb0670c3f19accd97b21e3c7ed55c2c638e19d7f
