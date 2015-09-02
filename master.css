@@ -1,0 +1,67 @@
+body {
+  background: url(http://theironyard.com/images/locations/houston/houston.jpg) no-repeat top center;
+  background-size: 100% 375px;
+  font-family: 'PT serif',serif;
+}
+.avitar img {
+  position: relative;
+  width: 98px;
+  border-radius: 60px;
+  border: 5px solid white;
+  top: 325px;
+  left: 140px;
+}
+
+.main {
+  margin-top: 340px;
+}
+
+.header {
+  height: 25%;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+
+aside {
+  float:left;
+  display: block;
+  width: 15%;
+  font-size: 17px;
+  margin-left: 100px;
+}
+
+aside h1 a {
+  text-decoration: none;
+  color: #666;
+}
+
+aside p {
+  color: #bbb;
+}
+aside h2 {
+  color: #bbb;
+  font-size: 16px;
+}
+
+.title h1 {
+  font-family: 'PT serif', serif;
+  font-size 40px;
+  width: 65%;
+
+}
+
+.container {
+  position: relative;
+  left: 50px;
+}
+
+.content img {
+  margin-top: 30px;
+}
+
+.content {
+  display: inline-block;
+  width: 50%;
+}
